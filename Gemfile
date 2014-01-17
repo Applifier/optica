@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'fog',             '~> 1.19.0'	
 gem 'eventmachine',    '~> 1.0.3'
 gem 'sinatra',         '~> 1.4.3'
 gem 'zk',              '~> 1.9.2'
